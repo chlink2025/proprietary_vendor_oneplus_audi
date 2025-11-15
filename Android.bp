@@ -10219,7 +10219,7 @@ cc_prebuilt_library_shared {
                 "vendor.pixelworks.hardware.display@1.0_vendor",
                 "android.frameworks.stats-V1-ndk",
                 "libolc_vnd",
-                "vendor.oplus.hardware.displaypanelfeature-V1-ndk_vendor",
+                "vendor.oplus.hardware.displaypanelfeature-V1-ndk",
                 "libbinder",
                 "libbinder_ndk",
                 "libc++",
@@ -11268,32 +11268,6 @@ cc_prebuilt_library_shared {
         android_arm64: {
             srcs: [
                 "proprietary/vendor/lib64/vendor.oplus.hardware.displaycolorfeature-V1-ndk.so",
-            ],
-            shared_libs: [
-                "libbinder_ndk",
-                "libc++",
-                "libc",
-                "libm",
-                "libdl",
-            ],
-        },
-    },
-    compile_multilib: "64",
-    prefer: true,
-    soc_specific: true,
-}
-
-cc_prebuilt_library_shared {
-    name: "vendor.oplus.hardware.displaypanelfeature-V1-ndk_vendor",
-    stem: "vendor.oplus.hardware.displaypanelfeature-V1-ndk",
-    owner: "oneplus",
-    strip: {
-        none: true,
-    },
-    target: {
-        android_arm64: {
-            srcs: [
-                "proprietary/vendor/lib64/vendor.oplus.hardware.displaypanelfeature-V1-ndk.so",
             ],
             shared_libs: [
                 "libbinder_ndk",
@@ -15030,7 +15004,7 @@ cc_prebuilt_library_shared {
                 "libbinder_ndk",
                 "libhidlbase",
                 "libutils",
-                "vendor.oplus.hardware.displaypanelfeature-V1-ndk_odm",
+                "vendor.oplus.hardware.displaypanelfeature-V1-ndk",
                 "libc++",
                 "libc",
                 "libm",
@@ -16579,32 +16553,6 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-    name: "vendor.oplus.hardware.displaypanelfeature-V1-ndk_odm",
-    stem: "vendor.oplus.hardware.displaypanelfeature-V1-ndk",
-    owner: "oneplus",
-    strip: {
-        none: true,
-    },
-    target: {
-        android_arm64: {
-            srcs: [
-                "proprietary/odm/lib64/vendor.oplus.hardware.displaypanelfeature-V1-ndk.so",
-            ],
-            shared_libs: [
-                "libbinder_ndk",
-                "libc++",
-                "libc",
-                "libm",
-                "libdl",
-            ],
-        },
-    },
-    compile_multilib: "64",
-    prefer: true,
-    device_specific: true,
-}
-
-cc_prebuilt_library_shared {
     name: "vendor.oplus.hardware.sendextcamcmd-V1-service-impl",
     owner: "oneplus",
     strip: {
@@ -17188,7 +17136,7 @@ cc_prebuilt_binary {
                 "libutils",
                 "libcutils",
                 "libhardware",
-                "vendor.oplus.hardware.displaypanelfeature-V1-ndk_odm",
+                "vendor.oplus.hardware.displaypanelfeature-V1-ndk",
                 "libjsoncpp",
                 "libc++",
                 "libc",
