@@ -1505,7 +1505,6 @@ PRODUCT_PACKAGES += \
     vendor.oplus.hardware.cwb-V1-ndk \
     vendor.oplus.hardware.cwb@1.0 \
     vendor.oplus.hardware.displaycolorfeature-V1-ndk_vendor \
-    vendor.oplus.hardware.displaypanelfeature-V1-ndk_vendor \
     vendor.pixelworks.hardware.display-V2-ndk \
     vendor.pixelworks.hardware.display@1.0_vendor \
     vendor.pixelworks.hardware.display@1.1_vendor \
@@ -1698,7 +1697,6 @@ PRODUCT_PACKAGES += \
     vendor.oplus.hardware.cammidasservice-V1-ndk \
     vendor.oplus.hardware.display.MixLut3D-V1-ndk_platform \
     vendor.oplus.hardware.displaycolorfeature-V1-ndk \
-    vendor.oplus.hardware.displaypanelfeature-V1-ndk_odm \
     vendor.oplus.hardware.sendextcamcmd-V1-service-impl \
     vendor.oplus.hardware.sendextcamcmd-V2-ndk \
     vendor.pixelworks.hardware.display@1.0 \
