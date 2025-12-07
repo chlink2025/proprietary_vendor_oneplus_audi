@@ -42,9 +42,17 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/audi/proprietary/odm/etc/camera/CameraHWConfiguration.config:$(TARGET_COPY_OUT_ODM)/etc/camera/CameraHWConfiguration.config \
     vendor/oneplus/audi/proprietary/odm/etc/camera/CameraOemConfiguration.config:$(TARGET_COPY_OUT_ODM)/etc/camera/CameraOemConfiguration.config \
     vendor/oneplus/audi/proprietary/odm/etc/camera/M_FaceAttribute_RGB.model:$(TARGET_COPY_OUT_ODM)/etc/camera/M_FaceAttribute_RGB.model \
+    vendor/oneplus/audi/proprietary/odm/etc/camera/Vega_Align_occlusion.model:$(TARGET_COPY_OUT_ODM)/etc/camera/Vega_Align_occlusion.model \
     vendor/oneplus/audi/proprietary/odm/etc/camera/Vega_Attribute_Face_RGB.model:$(TARGET_COPY_OUT_ODM)/etc/camera/Vega_Attribute_Face_RGB.model \
-    vendor/oneplus/audi/proprietary/odm/etc/camera/Vega_Detect_FaceAnimal_Gray.model:$(TARGET_COPY_OUT_ODM)/etc/camera/Vega_Detect_FaceAnimal_Gray.model \
-    vendor/oneplus/audi/proprietary/odm/etc/camera/Vega_Track_Animals_Gray.model:$(TARGET_COPY_OUT_ODM)/etc/camera/Vega_Track_Animals_Gray.model \
+    vendor/oneplus/audi/proprietary/odm/etc/camera/Vega_Detect_AnimalBodyFaceEye_Gray.model:$(TARGET_COPY_OUT_ODM)/etc/camera/Vega_Detect_AnimalBodyFaceEye_Gray.model \
+    vendor/oneplus/audi/proprietary/odm/etc/camera/Vega_Detect_BodyHead_Gray.model:$(TARGET_COPY_OUT_ODM)/etc/camera/Vega_Detect_BodyHead_Gray.model \
+    vendor/oneplus/audi/proprietary/odm/etc/camera/Vega_Detect_CommonFace_BGR.model:$(TARGET_COPY_OUT_ODM)/etc/camera/Vega_Detect_CommonFace_BGR.model \
+    vendor/oneplus/audi/proprietary/odm/etc/camera/Vega_Refine_RectQuality_AnimalBodyFaceEye_BGR.model:$(TARGET_COPY_OUT_ODM)/etc/camera/Vega_Refine_RectQuality_AnimalBodyFaceEye_BGR.model \
+    vendor/oneplus/audi/proprietary/odm/etc/camera/Vega_Refine_RectQuality_AnimalBodyFaceEye_Gray.model:$(TARGET_COPY_OUT_ODM)/etc/camera/Vega_Refine_RectQuality_AnimalBodyFaceEye_Gray.model \
+    vendor/oneplus/audi/proprietary/odm/etc/camera/Vega_Refine_RectQuality_HumanBodyFaceEye_Gray.model:$(TARGET_COPY_OUT_ODM)/etc/camera/Vega_Refine_RectQuality_HumanBodyFaceEye_Gray.model \
+    vendor/oneplus/audi/proprietary/odm/etc/camera/Vega_Track_AnimalsBodyFaceEye_Gray.model:$(TARGET_COPY_OUT_ODM)/etc/camera/Vega_Track_AnimalsBodyFaceEye_Gray.model \
+    vendor/oneplus/audi/proprietary/odm/etc/camera/Vega_Track_FaceRect20cls.model:$(TARGET_COPY_OUT_ODM)/etc/camera/Vega_Track_FaceRect20cls.model \
+    vendor/oneplus/audi/proprietary/odm/etc/camera/Vega_Track_HumanBody_Gray.model:$(TARGET_COPY_OUT_ODM)/etc/camera/Vega_Track_HumanBody_Gray.model \
     vendor/oneplus/audi/proprietary/odm/etc/camera/aiboost_qnn_htp2.2.0_2468630351544828688.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/aiboost_qnn_htp2.2.0_2468630351544828688.bin \
     vendor/oneplus/audi/proprietary/odm/etc/camera/aiboost_qnn_htp2.2.0_3404116395018271362.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/aiboost_qnn_htp2.2.0_3404116395018271362.bin \
     vendor/oneplus/audi/proprietary/odm/etc/camera/anc/fusion_model:$(TARGET_COPY_OUT_ODM)/etc/camera/anc/fusion_model \
@@ -447,6 +455,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/audi/proprietary/odm/etc/camera/meishe_lut/black_gold.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/black_gold.bin \
     vendor/oneplus/audi/proprietary/odm/etc/camera/meishe_lut/blackandwhite.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/blackandwhite.cube.rgb.bin \
     vendor/oneplus/audi/proprietary/odm/etc/camera/meishe_lut/bright_coloured.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/bright_coloured.bin \
+    vendor/oneplus/audi/proprietary/odm/etc/camera/meishe_lut/city.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/city.cube.rgb.bin \
     vendor/oneplus/audi/proprietary/odm/etc/camera/meishe_lut/cola.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/cola.bin \
     vendor/oneplus/audi/proprietary/odm/etc/camera/meishe_lut/cyberpunk-kitsch-3.1.CUBE.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/cyberpunk-kitsch-3.1.CUBE.rgb.bin \
     vendor/oneplus/audi/proprietary/odm/etc/camera/meishe_lut/drjw1994.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/drjw1994.bin \
@@ -474,6 +483,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/audi/proprietary/odm/etc/camera/meishe_lut/gt-quietly-ele.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/gt-quietly-ele.cube.rgb.bin \
     vendor/oneplus/audi/proprietary/odm/etc/camera/meishe_lut/gt-steaming.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/gt-steaming.cube.rgb.bin \
     vendor/oneplus/audi/proprietary/odm/etc/camera/meishe_lut/interstellar_space.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/interstellar_space.bin \
+    vendor/oneplus/audi/proprietary/odm/etc/camera/meishe_lut/island.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/island.cube.rgb.bin \
     vendor/oneplus/audi/proprietary/odm/etc/camera/meishe_lut/jw_sun.CUBE.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/jw_sun.CUBE.rgb.bin \
     vendor/oneplus/audi/proprietary/odm/etc/camera/meishe_lut/jw_surprise.CUBE.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/jw_surprise.CUBE.rgb.bin \
     vendor/oneplus/audi/proprietary/odm/etc/camera/meishe_lut/kodak.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/kodak.cube.rgb.bin \
@@ -481,6 +491,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/audi/proprietary/odm/etc/camera/meishe_lut/mono.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/mono.cube.rgb.bin \
     vendor/oneplus/audi/proprietary/odm/etc/camera/meishe_lut/morandi.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/morandi.cube.rgb.bin \
     vendor/oneplus/audi/proprietary/odm/etc/camera/meishe_lut/morning.dream.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/morning.dream.cube.rgb.bin \
+    vendor/oneplus/audi/proprietary/odm/etc/camera/meishe_lut/mountains.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/mountains.cube.rgb.bin \
     vendor/oneplus/audi/proprietary/odm/etc/camera/meishe_lut/natural.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/natural.cube.rgb.bin \
     vendor/oneplus/audi/proprietary/odm/etc/camera/meishe_lut/neon-2020.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/neon-2020.cube.rgb.bin \
     vendor/oneplus/audi/proprietary/odm/etc/camera/meishe_lut/nostalgic.scene.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/nostalgic.scene.cube.rgb.bin \
@@ -944,6 +955,16 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/audi/proprietary/odm/vendor/firmware/alipay.b07:$(TARGET_COPY_OUT_ODM)/vendor/firmware/alipay.b07 \
     vendor/oneplus/audi/proprietary/odm/vendor/firmware/alipay.b08:$(TARGET_COPY_OUT_ODM)/vendor/firmware/alipay.b08 \
     vendor/oneplus/audi/proprietary/odm/vendor/firmware/alipay.mdt:$(TARGET_COPY_OUT_ODM)/vendor/firmware/alipay.mdt \
+    vendor/oneplus/audi/proprietary/odm/vendor/firmware/antdtx.b00:$(TARGET_COPY_OUT_ODM)/vendor/firmware/antdtx.b00 \
+    vendor/oneplus/audi/proprietary/odm/vendor/firmware/antdtx.b01:$(TARGET_COPY_OUT_ODM)/vendor/firmware/antdtx.b01 \
+    vendor/oneplus/audi/proprietary/odm/vendor/firmware/antdtx.b02:$(TARGET_COPY_OUT_ODM)/vendor/firmware/antdtx.b02 \
+    vendor/oneplus/audi/proprietary/odm/vendor/firmware/antdtx.b03:$(TARGET_COPY_OUT_ODM)/vendor/firmware/antdtx.b03 \
+    vendor/oneplus/audi/proprietary/odm/vendor/firmware/antdtx.b04:$(TARGET_COPY_OUT_ODM)/vendor/firmware/antdtx.b04 \
+    vendor/oneplus/audi/proprietary/odm/vendor/firmware/antdtx.b05:$(TARGET_COPY_OUT_ODM)/vendor/firmware/antdtx.b05 \
+    vendor/oneplus/audi/proprietary/odm/vendor/firmware/antdtx.b06:$(TARGET_COPY_OUT_ODM)/vendor/firmware/antdtx.b06 \
+    vendor/oneplus/audi/proprietary/odm/vendor/firmware/antdtx.b07:$(TARGET_COPY_OUT_ODM)/vendor/firmware/antdtx.b07 \
+    vendor/oneplus/audi/proprietary/odm/vendor/firmware/antdtx.b08:$(TARGET_COPY_OUT_ODM)/vendor/firmware/antdtx.b08 \
+    vendor/oneplus/audi/proprietary/odm/vendor/firmware/antdtx.mdt:$(TARGET_COPY_OUT_ODM)/vendor/firmware/antdtx.mdt \
     vendor/oneplus/audi/proprietary/odm/vendor/firmware/uff_jv.b00:$(TARGET_COPY_OUT_ODM)/vendor/firmware/uff_jv.b00 \
     vendor/oneplus/audi/proprietary/odm/vendor/firmware/uff_jv.b01:$(TARGET_COPY_OUT_ODM)/vendor/firmware/uff_jv.b01 \
     vendor/oneplus/audi/proprietary/odm/vendor/firmware/uff_jv.b02:$(TARGET_COPY_OUT_ODM)/vendor/firmware/uff_jv.b02 \
@@ -1065,6 +1086,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/audi/proprietary/vendor/firmware/gen71100_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/gen71100_sqe.fw \
     vendor/oneplus/audi/proprietary/vendor/firmware/gen71100_zap.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/gen71100_zap.mbn \
     vendor/oneplus/audi/proprietary/vendor/firmware/gmu_gen70900.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/gmu_gen70900.bin \
+    vendor/oneplus/audi/proprietary/vendor/firmware/pn560.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/pn560.bin \
     vendor/oneplus/audi/proprietary/vendor/firmware/qps615_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/qps615_fw.bin \
     vendor/oneplus/audi/proprietary/vendor/firmware/tof8801_firmware.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tof8801_firmware.bin \
     vendor/oneplus/audi/proprietary/vendor/firmware/vpu20_2v.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu20_2v.mbn \
@@ -1516,6 +1538,15 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.camera.offlinecamera-service-impl \
     vendor.qti.hardware.camera.postproc@1.0-service-impl \
     vendor.qti.hardware.qdutils_disp@1.0 \
+    libQnnHtpV73Skel.signed.aiframe \
+    libQnnHtpV73Skel.unsigned.aiframe \
+    libQnnHtp.aiframe \
+    libQnnHtpPrepare.aiframe \
+    libQnnHtpV73Stub.aiframe \
+    libQnnSystem.aiframe \
+    libaiboost_qnn_external_delegate \
+    libqcom_llm \
+    libtransformer_lite \
     com.qti.sensor.imx355 \
     com.qti.sensor.imx882 \
     com.qti.sensor.s5k3p9 \
@@ -1569,6 +1600,14 @@ PRODUCT_PACKAGES += \
     libPlatformValidatorShared \
     libPolarrRender \
     libPreviewDecisionOld \
+    libQnnCpu \
+    libQnnGpu \
+    libQnnHtp \
+    libQnnHtpPrepare \
+    libQnnHtpV73CalculatorStub \
+    libQnnHtpV73Stub \
+    libQnnSaver \
+    libQnnSystem \
     libRedeyeReduce \
     libSNPE \
     libSnpeCpu \
@@ -1591,10 +1630,15 @@ PRODUCT_PACKAGES += \
     libaecCustom \
     libaecCustomParamParser \
     libafCustomParamParser \
+    libaiboost \
+    libaiboost_llm \
+    libaiboost_qnn_external_delegate_te \
+    libaiboost_te \
     libaisal \
     libaisd \
     libaiseg \
     libalCFR \
+    libalog \
     libancbase_rt_fusion \
     libancbase_segbase \
     libancbase_segment \
@@ -1672,7 +1716,6 @@ PRODUCT_PACKAGES += \
     libremosaic_wrapper \
     libremosaiclib_s5k3p9 \
     libremosaiclib_s5kjn1 \
-    libroi \
     libsat \
     libsaveshaderbin \
     libsharebuffer \
@@ -1704,6 +1747,24 @@ PRODUCT_PACKAGES += \
     vendor.pixelworks.hardware.display@1.2 \
     vendor.pixelworks.hardware.feature@1.0 \
     vendor.pixelworks.hardware.feature@1.1 \
+    capi_v3_oprec \
+    libCalculator_skel \
+    libQnnHtpV73 \
+    libQnnHtpV73Skel \
+    libQnnSaver \
+    libSnpeHtpV73Skel \
+    libSuperRawPost_skel \
+    libaisr_skel \
+    libarc_gk_pt_hvx_skel \
+    libarc_htp_driver_skel \
+    libcalculator_skel \
+    libhvxFaceBeautyPre_skel \
+    libktveffect \
+    libtfadsp_sb4_0_rx \
+    libtfadsp_sb4_0_tx \
+    libvdblurless_5.0.2_skel \
+    libvdsuperphoto_skel \
+    nlc_bgth_v1_5 \
     vendor.qti.camera.aon-impl.xml \
     vendor.qti.camera.offlinecamera-impl.xml \
     vendor.qti.camera.postproc-impl.xml \

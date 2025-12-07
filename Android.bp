@@ -47,6 +47,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -95,6 +97,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -143,6 +147,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -191,6 +197,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -239,6 +247,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -287,6 +297,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -335,6 +347,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -383,6 +397,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -431,6 +447,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -479,6 +497,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -527,6 +547,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -575,6 +597,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -623,6 +647,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -671,6 +697,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -719,6 +747,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -767,6 +797,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -815,6 +847,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -863,6 +897,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -911,6 +947,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -959,6 +997,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -1007,6 +1047,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -1055,6 +1097,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -1103,6 +1147,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -1151,6 +1197,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -1199,6 +1247,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -1247,6 +1297,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -1295,6 +1347,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -1343,6 +1397,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -1391,6 +1447,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -1439,6 +1497,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -1487,6 +1547,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -1535,6 +1597,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -1584,6 +1648,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -1632,6 +1698,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -1680,6 +1748,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -1728,6 +1798,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -1776,6 +1848,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -1824,6 +1898,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -1872,6 +1948,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -2228,6 +2306,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libchilog",
                 "libcom.qti.chinodeutils",
                 "com.qti.qseeaon",
@@ -2311,6 +2391,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libchilog",
                 "libcom.qti.chinodeutils",
                 "libc",
@@ -2361,11 +2443,12 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libcdsprpc",
                 "android.frameworks.sensorservice@1.0",
                 "libsensorndkbridge",
                 "vendor.oplus.hardware.commondcs-V1-ndk_platform",
-                "libbinder_ndk",
                 "libxml2",
                 "libcamximageformatutils",
                 "libchilog",
@@ -2531,11 +2614,12 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libcdsprpc",
                 "android.frameworks.sensorservice@1.0",
                 "libsensorndkbridge",
                 "vendor.oplus.hardware.commondcs-V1-ndk_platform",
-                "libbinder_ndk",
                 "libxml2",
                 "libcamximageformatutils",
                 "libchilog",
@@ -2589,11 +2673,12 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libcdsprpc",
                 "android.frameworks.sensorservice@1.0",
                 "libsensorndkbridge",
                 "vendor.oplus.hardware.commondcs-V1-ndk_platform",
-                "libbinder_ndk",
                 "libxml2",
                 "libcamximageformatutils",
                 "libchilog",
@@ -2647,11 +2732,12 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libcdsprpc",
                 "android.frameworks.sensorservice@1.0",
                 "libsensorndkbridge",
                 "vendor.oplus.hardware.commondcs-V1-ndk_platform",
-                "libbinder_ndk",
                 "libxml2",
                 "libchilog",
                 "libcom.qti.chinodeutils",
@@ -2797,11 +2883,12 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libcdsprpc",
                 "android.frameworks.sensorservice@1.0",
                 "libsensorndkbridge",
                 "vendor.oplus.hardware.commondcs-V1-ndk_platform",
-                "libbinder_ndk",
                 "libxml2",
                 "libcamximageformatutils",
                 "libchilog",
@@ -2889,11 +2976,12 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libcdsprpc",
                 "android.frameworks.sensorservice@1.0",
                 "libsensorndkbridge",
                 "vendor.oplus.hardware.commondcs-V1-ndk_platform",
-                "libbinder_ndk",
                 "libxml2",
                 "libcamximageformatutils",
                 "libchilog",
@@ -3050,6 +3138,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libchilog",
                 "libcom.qti.chinodeutils",
                 "libc",
@@ -3300,11 +3390,12 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libcdsprpc",
                 "android.frameworks.sensorservice@1.0",
                 "libsensorndkbridge",
                 "vendor.oplus.hardware.commondcs-V1-ndk_platform",
-                "libbinder_ndk",
                 "libxml2",
                 "libcamximageformatutils",
                 "libchilog",
@@ -4772,6 +4863,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -4820,6 +4913,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -4952,11 +5047,12 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libcdsprpc",
                 "android.frameworks.sensorservice@1.0",
                 "libsensorndkbridge",
                 "vendor.oplus.hardware.commondcs-V1-ndk_platform",
-                "libbinder_ndk",
                 "libxml2",
                 "libcamximageformatutils",
                 "libchilog",
@@ -5009,6 +5105,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libextensionlayer",
@@ -5060,6 +5158,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libz",
@@ -5110,6 +5210,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libz",
@@ -5160,6 +5262,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libz",
@@ -5210,6 +5314,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "com.qti.feature2.generic",
                 "libchilog",
@@ -5261,6 +5367,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libz",
@@ -5311,6 +5419,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libhwconfigurationutil_vendor",
@@ -5363,6 +5473,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libhwconfigurationutil_vendor",
                 "com.qti.chi.override",
                 "com.qti.feature2.generic",
@@ -5431,6 +5543,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libz",
@@ -5481,6 +5595,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libz",
@@ -5531,6 +5647,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libz",
@@ -5581,6 +5699,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libz",
@@ -5631,6 +5751,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libz",
@@ -5681,6 +5803,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libz",
@@ -5731,6 +5855,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libz",
@@ -5781,6 +5907,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libz",
@@ -5831,6 +5959,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libz",
@@ -5881,6 +6011,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libz",
@@ -5931,6 +6063,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libextensionlayer",
@@ -5983,6 +6117,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libhwconfigurationutil_vendor",
@@ -6034,6 +6170,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libz",
@@ -6084,6 +6222,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libz",
@@ -6134,6 +6274,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libz",
@@ -6184,6 +6326,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libz",
@@ -6268,11 +6412,12 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libcdsprpc",
                 "android.frameworks.sensorservice@1.0",
                 "libsensorndkbridge",
                 "vendor.oplus.hardware.commondcs-V1-ndk_platform",
-                "libbinder_ndk",
                 "libxml2",
                 "libprotobuf-cpp-full-21.7",
                 "libqmi_common_so",
@@ -6384,6 +6529,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libz",
@@ -6434,6 +6581,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libextensionlayer",
@@ -6486,6 +6635,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.camx.chiiqutils",
                 "com.qti.chi.override",
                 "libchilog",
@@ -6537,6 +6688,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libextensionlayer",
@@ -6589,6 +6742,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libz",
@@ -6639,11 +6794,12 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libcdsprpc",
                 "android.frameworks.sensorservice@1.0",
                 "libsensorndkbridge",
                 "vendor.oplus.hardware.commondcs-V1-ndk_platform",
-                "libbinder_ndk",
                 "libxml2",
                 "camera.qcom",
                 "libprotobuf-cpp-full-21.7",
@@ -6702,11 +6858,12 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libcdsprpc",
                 "android.frameworks.sensorservice@1.0",
                 "libsensorndkbridge",
                 "vendor.oplus.hardware.commondcs-V1-ndk_platform",
-                "libbinder_ndk",
                 "libxml2",
                 "libcamxfdengine",
                 "libcamximageformatutils",
@@ -6773,6 +6930,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libchifeature2",
                 "libchilog",
                 "vendor.qti.hardware.camera.offlinecamera-service-impl",
@@ -7182,6 +7341,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "com.qti.feature2.generic",
                 "libchilog",
@@ -7882,6 +8043,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libchilog",
                 "libc",
                 "libm",
@@ -11083,8 +11246,9 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
-                "libbase",
                 "libbinder_ndk",
+                "libosensenativeproxy_client",
+                "libbase",
                 "com.qti.qseeaon",
                 "vendor.oplus.hardware.camera.aon-V1-ndk_platform",
                 "libz",
@@ -11518,8 +11682,9 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
-                "libbase",
                 "libbinder_ndk",
+                "libosensenativeproxy_client",
+                "libbase",
                 "com.qti.qseeaon",
                 "vendor.qti.hardware.camera.aon-V1-ndk",
                 "libz",
@@ -11622,6 +11787,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "vendor.qti.hardware.camera.postproc@1.0",
                 "libz",
                 "libc",
@@ -11664,6 +11831,229 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    name: "libQnnHtpV73Skel.signed.aiframe",
+    stem: "libQnnHtpV73Skel",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/aiframe/cdsp/signed/libQnnHtpV73Skel.so",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    check_elf_files: false,
+    relative_install_path: "aiframe/cdsp/signed",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libQnnHtpV73Skel.unsigned.aiframe",
+    stem: "libQnnHtpV73Skel",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/aiframe/cdsp/unsigned/libQnnHtpV73Skel.so",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    check_elf_files: false,
+    relative_install_path: "aiframe/cdsp/unsigned",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libQnnHtp.aiframe",
+    stem: "libQnnHtp",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/aiframe/libQnnHtp.so",
+            ],
+            shared_libs: [
+                "libc",
+                "libm",
+                "libdl",
+                "liblog",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    relative_install_path: "aiframe",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libQnnHtpPrepare.aiframe",
+    stem: "libQnnHtpPrepare",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/aiframe/libQnnHtpPrepare.so",
+            ],
+            shared_libs: [
+                "libc",
+                "libm",
+                "libdl",
+                "liblog",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    relative_install_path: "aiframe",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libQnnHtpV73Stub.aiframe",
+    stem: "libQnnHtpV73Stub",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/aiframe/libQnnHtpV73Stub.so",
+            ],
+            shared_libs: [
+                "libc",
+                "libm",
+                "libdl",
+                "liblog",
+                "libcdsprpc",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    relative_install_path: "aiframe",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libQnnSystem.aiframe",
+    stem: "libQnnSystem",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/aiframe/libQnnSystem.so",
+            ],
+            shared_libs: [
+                "libc",
+                "libm",
+                "libdl",
+                "liblog",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    relative_install_path: "aiframe",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libaiboost_qnn_external_delegate",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/aiframe/libaiboost_qnn_external_delegate.so",
+            ],
+            shared_libs: [
+                "libm",
+                "liblog",
+                "libdl",
+                "libc",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    relative_install_path: "aiframe",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libqcom_llm",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/aiframe/libqcom_llm.so",
+            ],
+            shared_libs: [
+                "liblog",
+                "libc",
+                "libm",
+                "libdl",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    relative_install_path: "aiframe",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libtransformer_lite",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/aiframe/libtransformer_lite.so",
+            ],
+            shared_libs: [
+                "libOpenCL",
+                "liblog",
+                "libm",
+                "libdl",
+                "libc",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    relative_install_path: "aiframe",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
     name: "com.qti.sensor.imx355",
     owner: "oneplus",
     strip: {
@@ -11699,6 +12089,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -11747,6 +12139,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -11795,6 +12189,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "libc",
                 "libm",
                 "libdl",
@@ -12114,6 +12510,7 @@ cc_prebuilt_library_shared {
                 "libhidlbase",
                 "libAlgoProcess",
                 "libapsjpeg",
+                "libalog",
                 "libc++",
                 "libc",
                 "libm",
@@ -12164,6 +12561,7 @@ cc_prebuilt_library_shared {
                 "libselinux",
                 "libexif-jpeg-aps",
                 "libextendfile",
+                "libalog",
                 "libc++",
                 "libc",
                 "libm",
@@ -12691,6 +13089,7 @@ cc_prebuilt_library_shared {
                 "libcutils",
                 "libutils",
                 "libPolarrRender",
+                "libalog",
                 "libc++",
                 "libc",
                 "libm",
@@ -13198,10 +13597,206 @@ cc_prebuilt_library_shared {
                 "liblog",
                 "libcutils",
                 "libutils",
+                "libalog",
                 "libc++",
                 "libc",
                 "libm",
                 "libdl",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libQnnCpu",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/libQnnCpu.so",
+            ],
+            shared_libs: [
+                "libdl",
+                "liblog",
+                "libm",
+                "libc",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libQnnGpu",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/libQnnGpu.so",
+            ],
+            shared_libs: [
+                "liblog",
+                "libdl",
+                "libEGL",
+                "libGLESv2",
+                "libm",
+                "libc",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libQnnHtp",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/libQnnHtp.so",
+            ],
+            shared_libs: [
+                "liblog",
+                "libdl",
+                "libm",
+                "libc",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libQnnHtpPrepare",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/libQnnHtpPrepare.so",
+            ],
+            shared_libs: [
+                "libdl",
+                "liblog",
+                "libm",
+                "libc",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libQnnHtpV73CalculatorStub",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/libQnnHtpV73CalculatorStub.so",
+            ],
+            shared_libs: [
+                "libcdsprpc",
+                "libm",
+                "libdl",
+                "libc",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libQnnHtpV73Stub",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/libQnnHtpV73Stub.so",
+            ],
+            shared_libs: [
+                "libcdsprpc",
+                "libdl",
+                "liblog",
+                "libm",
+                "libc",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libQnnSaver",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/libQnnSaver.so",
+            ],
+            shared_libs: [
+                "libdl",
+                "liblog",
+                "libm",
+                "libc",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libQnnSystem",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/libQnnSystem.so",
+            ],
+            shared_libs: [
+                "libdl",
+                "liblog",
+                "libm",
+                "libc",
             ],
         },
     },
@@ -13769,6 +14364,103 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    name: "libaiboost",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/libaiboost.so",
+            ],
+            shared_libs: [
+                "libm",
+                "libdl",
+                "liblog",
+                "libc",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libaiboost_llm",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/libaiboost_llm.so",
+            ],
+            shared_libs: [
+                "libm",
+                "liblog",
+                "libdl",
+                "libz",
+                "libc",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libaiboost_qnn_external_delegate_te",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/libaiboost_qnn_external_delegate_te.so",
+            ],
+            shared_libs: [
+                "libdl",
+                "libm",
+                "liblog",
+                "libc",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libaiboost_te",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/libaiboost_te.so",
+            ],
+            shared_libs: [
+                "libm",
+                "libdl",
+                "liblog",
+                "libc",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
     name: "libaisal",
     owner: "oneplus",
     strip: {
@@ -13855,6 +14547,31 @@ cc_prebuilt_library_shared {
             shared_libs: [
                 "libc++_shared",
                 "liblog",
+                "libc",
+                "libm",
+                "libdl",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libalog",
+    owner: "oneplus",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/libalog.so",
+            ],
+            shared_libs: [
+                "liblog",
+                "libc++",
                 "libc",
                 "libm",
                 "libdl",
@@ -15245,6 +15962,8 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator-V1-ndk",
                 "vendor.oplus.hardware.osense.client-V1-ndk",
                 "libosenseaidlhalclient",
+                "libbinder_ndk",
+                "libosensenativeproxy_client",
                 "com.qti.chi.override",
                 "libchilog",
                 "libbinder",
@@ -15920,33 +16639,6 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-    name: "libroi",
-    owner: "oneplus",
-    strip: {
-        none: true,
-    },
-    target: {
-        android_arm64: {
-            srcs: [
-                "proprietary/odm/lib64/libroi.so",
-            ],
-            shared_libs: [
-                "libc++_shared",
-                "libz",
-                "libdl",
-                "libm",
-                "liblog",
-                "libaiboost",
-                "libc",
-            ],
-        },
-    },
-    compile_multilib: "64",
-    prefer: true,
-    device_specific: true,
-}
-
-cc_prebuilt_library_shared {
     name: "libsat",
     owner: "oneplus",
     strip: {
@@ -16035,6 +16727,8 @@ cc_prebuilt_library_shared {
                 "proprietary/odm/lib64/libsharebuffer_impl.so",
             ],
             shared_libs: [
+                "libdmabufheap",
+                "libnativewindow",
                 "libui",
                 "libutils",
                 "libcutils",
@@ -16750,6 +17444,168 @@ cc_prebuilt_library_shared {
     },
     compile_multilib: "64",
     prefer: true,
+    device_specific: true,
+}
+
+prebuilt_rfsa {
+    name: "capi_v3_oprec",
+    filename: "capi_v3_oprec.so",
+    owner: "oneplus",
+    src: "proprietary/odm/lib/rfsa/adsp/capi_v3_oprec.so",
+    relative_install_path: "adsp",
+    device_specific: true,
+}
+
+prebuilt_rfsa {
+    name: "libCalculator_skel",
+    filename: "libCalculator_skel.so",
+    owner: "oneplus",
+    src: "proprietary/odm/lib/rfsa/adsp/libCalculator_skel.so",
+    relative_install_path: "adsp",
+    device_specific: true,
+}
+
+prebuilt_rfsa {
+    name: "libQnnHtpV73",
+    filename: "libQnnHtpV73.so",
+    owner: "oneplus",
+    src: "proprietary/odm/lib/rfsa/adsp/libQnnHtpV73.so",
+    relative_install_path: "adsp",
+    device_specific: true,
+}
+
+prebuilt_rfsa {
+    name: "libQnnHtpV73Skel",
+    filename: "libQnnHtpV73Skel.so",
+    owner: "oneplus",
+    src: "proprietary/odm/lib/rfsa/adsp/libQnnHtpV73Skel.so",
+    relative_install_path: "adsp",
+    device_specific: true,
+}
+
+prebuilt_rfsa {
+    name: "libQnnSaver",
+    filename: "libQnnSaver.so",
+    owner: "oneplus",
+    src: "proprietary/odm/lib/rfsa/adsp/libQnnSaver.so",
+    relative_install_path: "adsp",
+    device_specific: true,
+}
+
+prebuilt_rfsa {
+    name: "libSnpeHtpV73Skel",
+    filename: "libSnpeHtpV73Skel.so",
+    owner: "oneplus",
+    src: "proprietary/odm/lib/rfsa/adsp/libSnpeHtpV73Skel.so",
+    relative_install_path: "adsp",
+    device_specific: true,
+}
+
+prebuilt_rfsa {
+    name: "libSuperRawPost_skel",
+    filename: "libSuperRawPost_skel.so",
+    owner: "oneplus",
+    src: "proprietary/odm/lib/rfsa/adsp/libSuperRawPost_skel.so",
+    relative_install_path: "adsp",
+    device_specific: true,
+}
+
+prebuilt_rfsa {
+    name: "libaisr_skel",
+    filename: "libaisr_skel.so",
+    owner: "oneplus",
+    src: "proprietary/odm/lib/rfsa/adsp/libaisr_skel.so",
+    relative_install_path: "adsp",
+    device_specific: true,
+}
+
+prebuilt_rfsa {
+    name: "libarc_gk_pt_hvx_skel",
+    filename: "libarc_gk_pt_hvx_skel.so",
+    owner: "oneplus",
+    src: "proprietary/odm/lib/rfsa/adsp/libarc_gk_pt_hvx_skel.so",
+    relative_install_path: "adsp",
+    device_specific: true,
+}
+
+prebuilt_rfsa {
+    name: "libarc_htp_driver_skel",
+    filename: "libarc_htp_driver_skel.so",
+    owner: "oneplus",
+    src: "proprietary/odm/lib/rfsa/adsp/libarc_htp_driver_skel.so",
+    relative_install_path: "adsp",
+    device_specific: true,
+}
+
+prebuilt_rfsa {
+    name: "libcalculator_skel",
+    filename: "libcalculator_skel.so",
+    owner: "oneplus",
+    src: "proprietary/odm/lib/rfsa/adsp/libcalculator_skel.so",
+    relative_install_path: "adsp",
+    device_specific: true,
+}
+
+prebuilt_rfsa {
+    name: "libhvxFaceBeautyPre_skel",
+    filename: "libhvxFaceBeautyPre_skel.so",
+    owner: "oneplus",
+    src: "proprietary/odm/lib/rfsa/adsp/libhvxFaceBeautyPre_skel.so",
+    relative_install_path: "adsp",
+    device_specific: true,
+}
+
+prebuilt_rfsa {
+    name: "libktveffect",
+    filename: "libktveffect.so",
+    owner: "oneplus",
+    src: "proprietary/odm/lib/rfsa/adsp/libktveffect.so",
+    relative_install_path: "adsp",
+    device_specific: true,
+}
+
+prebuilt_rfsa {
+    name: "libtfadsp_sb4_0_rx",
+    filename: "libtfadsp_sb4_0_rx.so",
+    owner: "oneplus",
+    src: "proprietary/odm/lib/rfsa/adsp/libtfadsp_sb4_0_rx.so",
+    relative_install_path: "adsp",
+    device_specific: true,
+}
+
+prebuilt_rfsa {
+    name: "libtfadsp_sb4_0_tx",
+    filename: "libtfadsp_sb4_0_tx.so",
+    owner: "oneplus",
+    src: "proprietary/odm/lib/rfsa/adsp/libtfadsp_sb4_0_tx.so",
+    relative_install_path: "adsp",
+    device_specific: true,
+}
+
+prebuilt_rfsa {
+    name: "libvdblurless_5.0.2_skel",
+    filename: "libvdblurless_5.0.2_skel.so",
+    owner: "oneplus",
+    src: "proprietary/odm/lib/rfsa/adsp/libvdblurless_5.0.2_skel.so",
+    relative_install_path: "adsp",
+    device_specific: true,
+}
+
+prebuilt_rfsa {
+    name: "libvdsuperphoto_skel",
+    filename: "libvdsuperphoto_skel.so",
+    owner: "oneplus",
+    src: "proprietary/odm/lib/rfsa/adsp/libvdsuperphoto_skel.so",
+    relative_install_path: "adsp",
+    device_specific: true,
+}
+
+prebuilt_rfsa {
+    name: "nlc_bgth_v1_5",
+    filename: "nlc_bgth_v1_5.so",
+    owner: "oneplus",
+    src: "proprietary/odm/lib/rfsa/adsp/nlc_bgth_v1_5.so",
+    relative_install_path: "adsp",
     device_specific: true,
 }
 
